@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "storyboard-281010",
+  "private_key_id": "c3087c8b31ec0eb2228b573e6cc454f4c38f056f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfCOpUKW9msNJ9\nYUTyjiA2yEaHWS4ehbGtjCnmLvK6Ps/y1R2cVsdnDz/DFvsTTPAUhaBZgMZCyv0i\n+w3xljnPjBD+YSnespvQ3jpkg1sAfEs92tErBqJqUilHBOv20lYT7aFFEYTBaHfT\n5xQOHs1CDqOFL6g5gHentgdQVi5QJs7zDcc+TJVAWQquJvT3rjI/fIEr2NZQRg5w\nCDzgtNV99EbHiHkuw+nUiy0nruMCX8zX3rQXHVZIt9yHEeS3uv4uuUBtvPykeLph\n+zgcq2BJ0KTtMZ/ezskd74MmRYAWTxFBZ+vliRrVMI1NzIjInCpUy2+JglooOfIW\nviYiEvivAgMBAAECggEAFTlXdzfUMoz8EtNZSM2ukhf/4ixh36SwUkgGyrFIBuIo\nTr7qCPEXG58PXcTHksAdDo7iwfGnrD591UDXxFgb2zzEdziOz/LmMfubyenYFJU/\nYbz7b6E7fmugIvJ8c+nzKAVSdeyjWfZThNY2Cdvzg2g6NlfhJcusV0jSrFnvIVBK\nmgv4LUxbEnF2Mrvnu7Buvg4Vluh8zCXKWe9nIsJkuygDszm8DrR3csm5xFXi5fev\nY+Qg0cqnL5K0M8PYKVL7UeiWb7wrllPYoSQt67tGlTpX2LeifnYN2aiYh5MF5Zy5\n0m9H9Vj6FKE03+PY55S8iKWZzXOckmYJuFlLBIaVrQKBgQD39BpN4jNIsPQF2VTH\nYLFEpnHu6w07qgy9QIOHumzawvrGVJClzhhdpMXb/BKzFpFXgyVG+T2BK8HwaP5s\nEJb3wt8avX2pZrlTmmU0O7ysjFpCJnnY4ZLHsNerhP3aKi2fkg63fJxcd5GWhgfS\n0MXuuMipiSddpWi62xwppHac2wKBgQDmRcxTMax2vvK2iyJot24fY+5ycNGw/qjd\n7qasJzld0d6kLA8mdmzHJH7qllSRdXBxM9K0HRh1xLCkM5Vp81d5QmrUYNrYZzWk\n2IGCQChCjFnK2kdBFaLHVWPGTOw2okdv9E5Uyr8Udf34j98dEJVZyPQfA2WDrxAt\n9ek7UrXxvQKBgQCbxFLeCLN1AA1cu0piMmFKolHC6REYIVz9a1D17GzEBWdrPubb\n8pwmAAR4jWPl89B8rJu3eY5k3mtor1zd4JImtdpYvx/5UtosJjtb1AdUUpvFIMy9\nLgB6yKLEUrjy3DprG2N5a6QDBu6EJFE35AXkUVtl/g6n6ujfMhUAKByHrwKBgQDZ\nK5q4G3D7zLo7Tpz1BYnmMOkBJUWeF45LQHgQhC2mPfgr/SGMtMOCTPklZQH87TVO\njgF5vLcE2qt9MOkJM2acBfeatH2w+iWtgkMiBD/0A0nr9lCdITqTpASlUIa2P/X/\nr/jwHwZ21ZDgi09wqeMw+kTBuwJSXxhzQCjmueq+QQKBgGBxf2lVgOL6DR8VBPMC\nXGzLE5mbw5KIRniORhV7mdR+c9LJL1a7u/BnP+jz8o6MKaVSFTKQmESb0IxtrPeb\nC2maqGQEDiefspLxUUGJc29/nZ3XCOcrPDSdqUv+Rc344Et4k7/tdunemVjmPs2c\n6ZqpZIG4HD6jhAd91rx+pzvT\n-----END PRIVATE KEY-----\n",
+  "client_email": "heroku-oauth@storyboard-281010.iam.gserviceaccount.com",
+  "client_id": "116811041705288217331",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/heroku-oauth%40storyboard-281010.iam.gserviceaccount.com"
+}
